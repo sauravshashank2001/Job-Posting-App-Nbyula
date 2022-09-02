@@ -1,3 +1,14 @@
+Deployed on Netlify:
+Link: https://shashank-job-posting-app.netlify.app/
+
+This web-app can be used for Job-Posting & Job-Applying.
+
+To use this App first Terraformers and Applicants has to SignUp & SignIn accordingly.
+TerraFormers can use this for Job posting and reordering the job listings.
+Applicants can use this for job viewing and applying.
+This web-app shows the job details and the job cards have colors according to their deadline.
+LogOut option is also available and redirect to the corresponding SignIn Page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
